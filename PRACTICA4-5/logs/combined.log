@@ -1,0 +1,18 @@
+{"level":"info","message":"Servicio Cliente: El cliente realizo este pedido: Pizza de pepperoni, jamón y salami con la cantidad de 2 con el metodo de pago Efectivo con el monto de 150\n El id del producto es :290","service":"practica3"}
+{"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 290 El restaurante ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 290 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
+{"level":"info","message":"Servicio Restaurante: Se ha recibido el siguiente pedido del cliente con id 5 con la cantidad de 2 de Pizza de pepperoni, jamón y salami","service":"practica3"}
+{"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
+{"level":"info","message":"Servicio Restaurante: Consulta del pedido 290 El pedido esta listo para recogerlo ","service":"practica3"}
+{"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
+{"level":"info","message":"Servicio Restaurante: Informar del pedido 290 Lo hemos recibido ","service":"practica3"}
+{"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Se ha recibido el siguiente pedido del cliente con id undefined del restaurante con id undefined","service":"practica3"}
+{"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Informar del del estado del pedido 290 Me dirijo a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Notificación de entrega del pedido 290","service":"practica3"}
+{"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
