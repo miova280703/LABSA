@@ -50,3 +50,5 @@ app.get('/notificar-entrega/:id_pedido', (req, res) => {
 app.listen(port, () => {
     console.log(`Servidor esta funcionando en http://localhost:${port}`);
 });
+
+module.exports = app;

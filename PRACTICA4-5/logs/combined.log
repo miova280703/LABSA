@@ -16,3 +16,92 @@
 {"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
 {"level":"info","message":"Servicio Repartidor: Notificación de entrega del pedido 290","service":"practica3"}
 {"level":"info","message":"Servicio ESB:  [object Object]","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante esta empacando tu pedido ","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante esta empacando tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha cancelado tu pedido por falta de ingredientes ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha cancelado tu pedido por falta de ingredientes ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Hello World Repartidor!","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Informar del del estado del pedido 1 Me dirijo a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Informar del estado del pedido 1 Lo he recojido ","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Notificación de entrega del pedido 1","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha cancelado tu pedido por falta de ingredientes ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante esta empacando tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurane esta preparando tu pedido  ","service":"practica3"}
+{"level":"info","message":"Hello World Repartidor!","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Informar del estado del pedido 1 Lo he recojido ","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Informar del estado del pedido 1 Lo he recojido ","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Notificación de entrega del pedido 1","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurane esta preparando tu pedido  ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha cancelado tu pedido por falta de ingredientes ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurane esta preparando tu pedido  ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurane esta preparando tu pedido  ","service":"practica3"}
+{"level":"info","message":"Hello World Repartidor!","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Informar del estado del pedido 1 Lo he recojido ","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Informar del estado del pedido 1 Lo he recojido ","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Notificación de entrega del pedido 1","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha recibido tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante esta empacando tu pedido ","service":"practica3"}
+{"level":"info","message":"Hello World Repartidor!","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Informar del del estado del pedido 1 Me dirijo a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Informar del del estado del pedido 1 Me dirijo a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Repartidor: Notificación de entrega del pedido 1","service":"practica3"}
+{"level":"info","message":"Hello World Cliente!","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha cancelado tu pedido debido a que te encuentras en una zona peligrosa ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor ha llegado a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El repartidor esta en camino a tu domicilio ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurane esta preparando tu pedido  ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante ha cancelado tu pedido por falta de ingredientes ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurante esta empacando tu pedido ","service":"practica3"}
+{"level":"info","message":"Servicio Cliente: Consulta del pedido 1 El restaurane esta preparando tu pedido  ","service":"practica3"}
+{"level":"info","message":"Hello World Restaurante!","service":"practica3"}
+{"level":"info","message":"Servicio Restaurante: Informar del pedido 1 Lo hemos recibido ","service":"practica3"}
+{"level":"info","message":"Servicio Restaurante: Consulta del pedido 1 El pedido esta listo para recogerlo ","service":"practica3"}
