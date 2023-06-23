@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "placa":1111,
+        "marca":"hyundai",
+        "modelo":"saber1",
+        "serie":"saber1",
+        "color":"verde"
+    },
+    {
+        "id":2,
+        "placa":2222,
+        "marca":"toyota",
+        "modelo":"saber2",
+        "serie":"saber2",
+        "color":"azul"
+    },
+    {
+        "id":3,
+        "placa":3333,
+        "marca":"mazda",
+        "modelo":"saber3",
+        "serie":"saber3",
+        "color":"gris"
+    },
+    {
+        "id":4,
+        "placa":4444,
+        "marca":"honda",
+        "modelo":"saber4",
+        "serie":"saber4",
+        "color":"negro"
+    }
+    
+]
